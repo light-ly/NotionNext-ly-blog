@@ -31,5 +31,5 @@
 }
 
 code[class*=language-], pre[class*=language-] {
-    font-family: 'Code New Roman', Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+    font-family: 'Code New Roman', Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace !important;
 }
