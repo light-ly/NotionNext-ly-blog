@@ -6,3 +6,26 @@
 .fa-info:before {
     content: "\f05a";
 }
+
+@font-face {
+    font-family: 'Code New Roman Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Code New Roman Regular'), url('../webfonts/Code New Roman.woff') format('woff');
+}
+    
+
+@font-face {
+    font-family: 'Code New Roman Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Code New Roman Italic'), url('../webfonts/Code New Roman i.woff') format('woff');
+}
+    
+
+@font-face {
+    font-family: 'Code New Roman Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Code New Roman Bold'), url('../webfonts/Code New Roman b.woff') format('woff');
+}
