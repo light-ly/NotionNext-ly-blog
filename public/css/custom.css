@@ -29,3 +29,7 @@
     font-weight: normal;
     src: local('Code New Roman Bold'), url('../webfonts/Code New Roman b.woff') format('woff');
 }
+
+code[class*=language-], pre[class*=language-] {
+    font-family: 'Code New Roman', Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+}
