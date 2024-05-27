@@ -66,7 +66,7 @@ const BLOG = {
   // 无衬线字体 例如'"LXGW WenKai"'
   FONT_SANS: [
     // '"LXGW WenKai"',
-    'CodeNewRoman Nerd Font Mono',
+    'Code New Roman',
     '"PingFang SC"',
     '-apple-system',
     'BlinkMacSystemFont',
@@ -87,7 +87,7 @@ const BLOG = {
   // 衬线字体 例如'"LXGW WenKai"'
   FONT_SERIF: [
     // '"LXGW WenKai"',
-    'CodeNewRoman Nerd Font Mono',
+    'Code New Roman',
     'Bitter',
     '"Noto Serif SC"',
     'SimSun',
